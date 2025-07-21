@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SimleCalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-07-16T07:33:52.020Z" hostname="DESKTOP-TVCUAPN" time="0.054">
+  <properties/>
+  <testcase name="Testing sub 0 - 0" classname="SimleCalculatorTest" time="0.034"/>
+  <testcase name="Testing sub 0 - 1" classname="SimleCalculatorTest" time="0.001"/>
+  <testcase name="Testing sub 1 - 0" classname="SimleCalculatorTest" time="0.001"/>
+  <testcase name="Testing sub 5 - 3" classname="SimleCalculatorTest" time="0.001"/>
+  <testcase name="Testing add 0 + 0" classname="SimleCalculatorTest" time="0.001"/>
+  <testcase name="Testing add 0 + 1" classname="SimleCalculatorTest" time="0.001"/>
+  <testcase name="Testing add 1 + 0" classname="SimleCalculatorTest" time="0.001"/>
+  <testcase name="Testing add 5 + 3" classname="SimleCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

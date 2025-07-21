@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thuc_hanh2/QueueArray/QueueArray.iml" filepath="$PROJECT_DIR$/thuc_hanh2/QueueArray/QueueArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueList/QueueList.iml" filepath="$PROJECT_DIR$/QueueList/QueueList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuc_hanh2/StackArray/StackArray.iml" filepath="$PROJECT_DIR$/thuc_hanh2/StackArray/StackArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuc_hanh_01/Thuc_hanh_01.iml" filepath="$PROJECT_DIR$/Thuc_hanh_01/Thuc_hanh_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execries/execries.iml" filepath="$PROJECT_DIR$/execries/execries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execries/execries_01/execries_01.iml" filepath="$PROJECT_DIR$/execries/execries_01/execries_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execries/execries_02/execries_02.iml" filepath="$PROJECT_DIR$/execries/execries_02/execries_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/execries/execries_03/execries_03.iml" filepath="$PROJECT_DIR$/execries/execries_03/execries_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lesson_11.iml" filepath="$PROJECT_DIR$/.idea/lesson_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuc_hanh2/thuc_hanh2.iml" filepath="$PROJECT_DIR$/thuc_hanh2/thuc_hanh2.iml" />
+    </modules>
+  </component>
+</project>

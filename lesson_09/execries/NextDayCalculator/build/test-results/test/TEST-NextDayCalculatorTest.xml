@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NextDayCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-07-16T08:31:28.060Z" hostname="DESKTOP-TVCUAPN" time="0.023">
+  <properties/>
+  <testcase name="testNextDayCalculator2()" classname="NextDayCalculatorTest" time="0.016"/>
+  <testcase name="testNextDayCalculator3()" classname="NextDayCalculatorTest" time="0.001"/>
+  <testcase name="testNextDayCalculator4()" classname="NextDayCalculatorTest" time="0.0"/>
+  <testcase name="testNextDayCalculator5()" classname="NextDayCalculatorTest" time="0.001"/>
+  <testcase name="testNextDayCalculator6()" classname="NextDayCalculatorTest" time="0.0"/>
+  <testcase name="testNextDayCalculator()" classname="NextDayCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

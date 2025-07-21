@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClassificationOfTriangleTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-07-16T09:15:07.931Z" hostname="DESKTOP-TVCUAPN" time="0.026">
+  <properties/>
+  <testcase name="testClassificationOfTriangle()" classname="ClassificationOfTriangleTest" time="0.016"/>
+  <testcase name="testClassificationOfTriangle2()" classname="ClassificationOfTriangleTest" time="0.001"/>
+  <testcase name="testClassificationOfTriangle3()" classname="ClassificationOfTriangleTest" time="0.0"/>
+  <testcase name="testClassificationOfTriangle4()" classname="ClassificationOfTriangleTest" time="0.001"/>
+  <testcase name="testClassificationOfTriangle5()" classname="ClassificationOfTriangleTest" time="0.0"/>
+  <testcase name="testClassificationOfTriangle6()" classname="ClassificationOfTriangleTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

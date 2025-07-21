@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ResultFizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-07-16T10:09:03.921Z" hostname="DESKTOP-TVCUAPN" time="0.016">
+  <properties/>
+  <testcase name="testconvertToVietNamse2()" classname="ResultFizzBuzzTest" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

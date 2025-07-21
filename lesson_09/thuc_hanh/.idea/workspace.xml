@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bb5190e-5a9a-4d6a-ba98-ddd137a26d52" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../lesson_03/exercies/src/RemoveArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_03/thuc_hanh/src/ConvertTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_03/thuc_hanh/src/NumberArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_03/thuc_hanh/src/NumberMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_03/thuc_hanh/src/StudentArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_03/thuc_hanh/src/reverse_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_04/bai_tap/execries_01/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_04/thuc_hanh/src/ClassHCN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_01/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_01/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_01/src/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_01/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_02/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_02/src/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_02/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_02/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/bai_tap/exercies_02/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Comparator_geomatry/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Comparator_geomatry/src/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Comparator_geomatry/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/Noun/src/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/AbstractAndInterfaceTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lesson_07/thuc_hanh/abstract_class_and_interface_test/src/fruit/Orange.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2zwlWcFNBW7ePvWdGWHyCcE7bC6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/codegym/module_02/lesson_09/thuc_hanh",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "E:/codegym/module_02/lesson_09/thuc_hanh/calculator/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb5190e-5a9a-4d6a-ba98-ddd137a26d52" name="Changes" comment="" />
+      <created>1752650048984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752650048984</updated>
+      <workItem from="1752650050131" duration="65000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/calculator/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
