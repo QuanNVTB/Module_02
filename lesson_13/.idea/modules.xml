@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thuc_Hanh_Optional/Thuc_Hanh_Optional.iml" filepath="$PROJECT_DIR$/Thuc_Hanh_Optional/Thuc_Hanh_Optional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies/exercies.iml" filepath="$PROJECT_DIR$/exercies/exercies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_Optional_01/exercies_Optional_01.iml" filepath="$PROJECT_DIR$/exercies_Optional_01/exercies_Optional_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_optional_02/exercies_optional_02.iml" filepath="$PROJECT_DIR$/exercies_optional_02/exercies_optional_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson_13.iml" filepath="$PROJECT_DIR$/lesson_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" filepath="$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" />
+    </modules>
+  </component>
+</project>
