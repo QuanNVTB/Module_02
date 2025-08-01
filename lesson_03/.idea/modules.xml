@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Thuc_Hanh_01/Thuc_Hanh_01.iml" filepath="$PROJECT_DIR$/Thuc_Hanh_01/Thuc_Hanh_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuc_Hanh_02/Thuc_Hanh_02.iml" filepath="$PROJECT_DIR$/Thuc_Hanh_02/Thuc_Hanh_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuc_Hanh_04/Thuc_Hanh_04.iml" filepath="$PROJECT_DIR$/Thuc_Hanh_04/Thuc_Hanh_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuc_Hanh_05/Thuc_Hanh_05.iml" filepath="$PROJECT_DIR$/Thuc_Hanh_05/Thuc_Hanh_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thuc_Hanh_06/Thuc_Hanh_06.iml" filepath="$PROJECT_DIR$/Thuc_Hanh_06/Thuc_Hanh_06.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercies/exercies.iml" filepath="$PROJECT_DIR$/exercies/exercies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_02/exercies_02.iml" filepath="$PROJECT_DIR$/exercies_02/exercies_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_03/exercies_03.iml" filepath="$PROJECT_DIR$/exercies_03/exercies_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_04/exercies_04.iml" filepath="$PROJECT_DIR$/exercies_04/exercies_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_05/exercies_05.iml" filepath="$PROJECT_DIR$/exercies_05/exercies_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_06/exercies_06.iml" filepath="$PROJECT_DIR$/exercies_06/exercies_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercies_08/exercies_08.iml" filepath="$PROJECT_DIR$/exercies_08/exercies_08.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lesson_03.iml" filepath="$PROJECT_DIR$/.idea/lesson_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" filepath="$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thuc_hanh_03/thuc_hanh_03.iml" filepath="$PROJECT_DIR$/thuc_hanh_03/thuc_hanh_03.iml" />
     </modules>
   </component>
 </project>
