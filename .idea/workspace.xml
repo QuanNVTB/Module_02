@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebf5cf33-837b-4b5e-915d-79edd0b0e939" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson_04/bai_tap/exercies_02/exercies_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04/bai_tap/exercies_02/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04/bai_tap/exercies_03/exercies_03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_04/bai_tap/exercies_03/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05/exercies_01/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05/exercies_02/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05/thuc_hanh_01/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05/thuc_hanh_02/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_05/thuc_hanh_02/thuc_hanh_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_04/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_04/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-calculator" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-calculator/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-calculator/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-calculator/src/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-calculator/src/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder/apj-2023-cylinder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder/apj-2023-cylinder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder/src/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder/src/CylinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-cylinder/src/CylinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-fizzbuzz" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-fizzbuzz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-fizzbuzz/apj-2023-fizzbuzz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-fizzbuzz/apj-2023-fizzbuzz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/apj-2023-fizzbuzz/src/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/apj-2023-fizzbuzz/src/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/execries/apj-tennis-game" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/execries/apj-tennis-game" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_08/execries/apj-tennis-game/src/com/codegym/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_08/execries/apj-tennis-game/src/com/codegym/TennisGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_16/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_16/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="30mUvd2iVG3uiPl4pRwasa3FByD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/codegym/module_02&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebf5cf33-837b-4b5e-915d-79edd0b0e939" name="Changes" comment="" />
+      <created>1754232474109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754232474109</updated>
+      <workItem from="1754232475263" duration="12000" />
+      <workItem from="1754232491021" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

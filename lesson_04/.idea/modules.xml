@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bai_tap/bai_tap.iml" filepath="$PROJECT_DIR$/bai_tap/bai_tap.iml" />
       <module fileurl="file://$PROJECT_DIR$/bai_tap/execries_01/execries_01.iml" filepath="$PROJECT_DIR$/bai_tap/execries_01/execries_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai_tap/exercies_02/exercies_02.iml" filepath="$PROJECT_DIR$/bai_tap/exercies_02/exercies_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai_tap/exercies_03/exercies_03.iml" filepath="$PROJECT_DIR$/bai_tap/exercies_03/exercies_03.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lesson_04.iml" filepath="$PROJECT_DIR$/.idea/lesson_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" filepath="$PROJECT_DIR$/thuc_hanh/thuc_hanh.iml" />
     </modules>
